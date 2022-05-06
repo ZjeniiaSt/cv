@@ -18,12 +18,7 @@
 }
 
 /* //-- yui-grids style overrides -- */
-body {
-  font-family: Georgia;
-  color: #444;
-  height: 842px;
-  width: 595px;
-}
+
 #inner {
   padding: 10px 80px;
   margin: 80px auto;
@@ -195,8 +190,8 @@ a#pdf:hover {
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
-  height: 842px;
-  width: 595px;
+  height: 1127px;
+  width: 797px;
 }
 
 .main-container {
