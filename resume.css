@@ -21,6 +21,8 @@
 body {
   font-family: Georgia;
   color: #444;
+  height: 842px;
+  width: 595px;
 }
 #inner {
   padding: 10px 80px;
@@ -193,6 +195,8 @@ a#pdf:hover {
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
+  height: 842px;
+  width: 595px;
 }
 
 .main-container {
@@ -245,7 +249,6 @@ body {
   font-style: normal;
   font-weight: normal;
   color: #595959;
-  width: 400px;
   font-size: 14px;
   line-height: 24px;
 }
@@ -372,7 +375,7 @@ body {
 .sidebar-section {
   background: #2e2300;
   width: 370px;
-  padding: 40px 0;
+  padding: 140px 20px 0px 0px;
 }
 
 .contacts-section,
