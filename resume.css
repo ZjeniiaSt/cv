@@ -190,12 +190,13 @@ a#pdf:hover {
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
+  height: 1754px;
+  width: 1240px;
 }
 
 .main-container {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
   background: #fff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
@@ -367,8 +368,7 @@ body {
 
 .sidebar-section {
   background: #2e2300;
-  width: 370px;
-  padding: 140px 20px 0px 0px;
+  padding: 140px 40px 0px 0px;
 }
 
 .contacts-section,
